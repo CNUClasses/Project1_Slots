@@ -15,7 +15,7 @@ An apk to demo the program.  An apk is like an executable zip file.  Open it in 
 **Description**
 
 You are to generate a slot machine app display application.  Once started the user will be presented with a GUI similar to the following;
-
+![Alt text](fig1.png?raw=true "Figure 1")
 Figure 1
 
 When started it looks similar to figure 1.  It costs a dollar every time the user clicks the green Go button. When the user presses Go button, all flowers will spin around and then stop. When they stop they will be randomly reset to 1 of 3 colors.  If they match the user earns dollars (see above instructions)
