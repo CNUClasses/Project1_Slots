@@ -42,8 +42,8 @@ The background (flowers3.png)  is set in the parent relativelayout using the fol
 
 :
 
-**android**** :background= ****&quot;@drawable/flowers3&quot;**
-**android**** :scaleType= ****&quot;fitXY&quot;**
+android:background= "@drawable/flowers3";
+android:scaleType= "fitXY";
 
 :
 
