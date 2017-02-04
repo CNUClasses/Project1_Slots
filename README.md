@@ -20,16 +20,10 @@ Figure 1
 
 When started it looks similar to figure 1.  It costs a dollar every time the user clicks the green Go button. When the user presses Go button, all flowers will spin around and then stop. When they stop they will be randomly reset to 1 of 3 colors.  If they match the user earns dollars (see above instructions)
 
-As soon as the user presses Go a reset button will appear in the lower right corner as in figure 2. Pressing this button will reset the game to figure 1.
+As soon as the user presses Go a reset button will appear in the lower right corner. Pressing this button will reset the game to figure 1.
 
 
-
-Figure 2
-
-Notice that the amount of money the user has goes up or down according to the number of times the Go button pressed and winnings.  If the user runs out of money.  The Go button should disappear and the user must hit the reset button to start over.  See Figure 3 for what this looks like.
-
-Figure 3
-
+Notice that the amount of money the user has goes up or down according to the number of times the Go button pressed and winnings.  If the user runs out of money.  The Go button should disappear and the user must hit the reset button to start over.  
 
 
 **Project icon**
